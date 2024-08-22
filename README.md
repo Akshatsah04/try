@@ -1,11 +1,4 @@
-#include <iostream>
-using namespace std;
+just trying out
 
-int main()
-{
- cout<<"tony stark"<<enddl;
-
- return 0;
-}
 
  
